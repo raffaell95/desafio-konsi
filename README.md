@@ -10,7 +10,7 @@
 
 ## Instalação com docker
 
-1. basta entrar na pasta desafio-konsi e digitar `docker-compose up -d` apos o build o backend estará rodando na porta `http://localhost:8000`
+1. basta entrar na pasta desafio-konsi e digitar `docker-compose up -d` via linha de comando, apos o build o backend estará rodando na porta `http://localhost:8000`
 
 
 ## Instalação local
