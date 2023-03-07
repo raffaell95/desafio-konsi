@@ -21,7 +21,7 @@
 4. com tudo instalado agora é so executar o comando `uvicorn src.server:app --reload` e pronto, o projeto estará rodando na porta `http://localhost:8000`.
 
 
-## Testes Unitarios
+## Testes unitarios
 
 - **Com ambiente docker** os tests automatizados são executados na primeira vez que o projeto é buildado, para executar novamente basta rodar o comando `docker-compose up -d --build`,
 tambem é possivel rodar os testes entrando no container com o comando `docker container exec -it desafio-konsi-app bash` e em seguida rodar `pytest`.
